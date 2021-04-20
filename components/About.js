@@ -20,7 +20,7 @@ export default class About extends React.Component {
                         </dl>
                     </div>
                     <div className="column has-text-left">
-                        <img src="/static/images/serhat_avatar.png" className="mascot" />
+                        <img src="/static/images/avatar-serhat-2.png" className="mascot" />
                     </div>
                 </div>
                 <div className="columns">
