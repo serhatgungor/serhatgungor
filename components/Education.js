@@ -9,6 +9,12 @@ export default class Education extends React.Component {
                 <Title title="Formation" color='#ffffff' />
                 <div className="container">
                     <Item
+                        time="Rentrée 2021"
+                        name="Préparation Formation alternance Développeur Full Stack"
+                        major="Metz Numeric School"
+                        color="#57b26e"
+                    />
+                    <Item
                         time="Mars 2020 - Octobre 2020"
                         name="Formation développeur web et mobile"
                         major="Alaji / Simplon à Metz"

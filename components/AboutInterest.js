@@ -53,7 +53,6 @@ export default class AboutInterest extends React.Component {
                                 src="/static/images/icon-github_colored.svg">
                             </img>
                         </a>
-
                     </div>
                 </div>
                 <style jsx>{`
@@ -71,6 +70,30 @@ export default class AboutInterest extends React.Component {
                         transform: scale(1.5); 
                     }
                 `}</style>
+                <div className="columns topic">
+                    <div className="column has-text-left is-6 is-offset-3 is-10-mobile is-offset-1-mobile">
+                        Mes créations
+                    </div>
+                </div>
+                <div className="columns item">
+                    <div className="column is-6 is-offset-3 is-8-mobile is-offset-2-mobile">
+                        <a
+                            href="https://karlidag.at/"
+                            target="_blank">
+                            <img
+                                src="/static/images/Karlidag-pool-blue.jpeg">
+                            </img>
+                        </a>
+                        <a
+                            href="https://salon-snow-white.at/"
+                            target="_blank">
+                            <img
+                                src="/static/images/SnowWhite.png">
+                            </img>
+                        </a>
+                    </div>
+                </div>
+
             </div>
 
         )

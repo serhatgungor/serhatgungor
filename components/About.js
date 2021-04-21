@@ -25,7 +25,7 @@ export default class About extends React.Component {
                 </div>
                 <div className="columns">
                     <div className="column detail is-10 is-offset-1 is-6-desktop is-offset-3-desktop is-10-mobile is-offset-1-mobile">
-                        Hello, je suis <b>Serhat Gungor</b>. Débutant dans le développement Web et Web Mobile,j'ai une préférence pour le <b>front-end</b> mais à terme mon souhait est de devenir<i><b>developpeur full-stack</b></i>. Des connaissances en <i>Symfony</i> et <i>Laravel</i>, actuellement je me forme sur <b>JavaScript</b> à travers les framework <i>ReactJS</i>, <i>AngularJS</i>  et <i>VueJS </i>. <br/> <b>Français</b>, <b>Turque</b> et <b>Kurde</b> sont mes langues maternelles, un niveau basique en <b>Allemand</b> et moyennement correct en <b>Anglais</b>.
+                        Hello, je suis <b>Serhat Gungor</b>.Débutant dans le développement Web et Web Mobile, après avoir validé mon titre pro Développeur web en Octobre  2020, je recherche une entreprise pour préparer mon entrée en alternance d’une année à <b>Metz Numeric School</b> à la rentrée 2021 pour devenir <i><b>Développeur Full Stack</b></i>.Quelques connaissances en <i>Symfony</i> et <i>Laravel</i>, actuellement je me forme sur <b>JavaScript</b> à travers les framework <i>ReactJS</i>, <i>AngularJS</i>  et <i>VueJS </i>. <br/> <b>Français</b>, <b>Turque</b> et <b>Kurde</b> sont mes langues maternelles, un niveau basique en <b>Allemand</b> et moyennement correct en <b>Anglais</b>.
 
                     </div>
                 </div>

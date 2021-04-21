@@ -8,6 +8,14 @@ export default class Experiences extends React.Component {
             <section className="hero wrapper has-text-centered">
                 <Title title="Experiences" color='#2c3e50'/>
                 <div className="container">
+                    <Timeline side="right" time="Juin 2020 - Juillet 2020" color="#57b26e">
+                        <h4 style={{'color': '#57b26e'}}>Stage Développeur Web</h4>
+                        <p>
+                            <i className="position">Stagiaire</i><br/>
+                            Stage effectué durant la formation développeur Web<br/>
+                            Soumis à clause de confidentialité
+                        </p>
+                    </Timeline>
                     <Timeline side="left" time="Avril 2017 - Août 2019" color="#3498db">
                         <h4 style={{'color': '#3498db'}}>Mécanicien</h4>
                         <p>
